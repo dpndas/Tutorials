@@ -1,2 +1,2 @@
 # Tutorials
-Some code from the lecture
+Some codes from the lecture
